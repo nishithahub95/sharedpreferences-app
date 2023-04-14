@@ -1,16 +1,11 @@
 # sharedpreferences_app
 
-A new Flutter project.
+Features
 
-## Getting Started
+three screens used
+1.Splash screeen
+2.Singnup screen
+3. User Screen
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![2023-04-14 (4)](https://user-images.githubusercontent.com/123442720/232048088-7285ce20-2a85-4898-b9d9-126999ab7dae.png)
